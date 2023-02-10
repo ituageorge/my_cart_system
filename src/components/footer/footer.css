@@ -1,0 +1,16 @@
+footer{
+    background-color: hotpink;  
+}
+
+.footer_text{
+    margin: 0 auto;
+}
+
+.cart-footer{
+	/* margin:0 auto; */
+	padding: 1rem;
+	height: 2.5rem;
+	margin-right: 1rem;
+	display: flex;
+	justify-content: space-between;
+}
